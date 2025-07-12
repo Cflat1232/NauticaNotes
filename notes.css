@@ -5,9 +5,9 @@ html, body {
   font-family: 'Montserrat', sans-serif;
   color: #1a1a1a;
   background-image: url('bubbles.png');
-  background-repeat: repeat-y;            /* Repeat vertically only */
-  background-position: top left;          /* Start from top-left corner */
-  background-size: 100% auto;             /* Full width, natural height */
-  background-color: #0d2c54;              /* Fallback color */
+  background-repeat: repeat-y;            
+  background-position: top left;          
+  background-size: 100% auto;             
+  background-color: #0d2c54;              
   line-height: 1.6;
 }
